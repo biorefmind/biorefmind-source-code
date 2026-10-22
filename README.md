@@ -15,7 +15,8 @@
 | | |
 |---|---|
 | **Project** | BioRefMind |
-| **CEO** | Azeddine Zellag |
+| **CEO** | Hadjer |
+| **Developer** | Azeddine Zellag |
 | **Website** | [biorefmind.vercel.app](https://biorefmind.vercel.app) |
 | **Contact** | biorefmindproject@gmail.com |
 | **Languages** | English, Arabic (right to left) |
