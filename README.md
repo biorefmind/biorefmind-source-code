@@ -21,6 +21,8 @@
 | **Contact** | biorefmindproject@gmail.com |
 | **Languages** | English, Arabic (right to left) |
 
+> Built with [Claude Code](https://claude.com/claude-code) (Claude Opus) as a coding assistant.
+
 ## What it does
 
 - **Marketplace:** farms and factories list crop residues and by-products; buyers browse and send interest requests.
