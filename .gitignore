@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+.env
+.vercel
+.DS_Store
+.convex-tmp/
+proposal/
+AI project.pdf
+.env*
+!.env.example
