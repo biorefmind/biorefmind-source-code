@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Project** | BioRefMind |
-| **CEO** | Hadjer |
+| **CEO** | Hadjer Boulad |
 | **Developer** | Azeddine Zellag |
 | **Website** | [biorefmind.vercel.app](https://biorefmind.vercel.app) |
 | **Contact** | biorefmindproject@gmail.com |
